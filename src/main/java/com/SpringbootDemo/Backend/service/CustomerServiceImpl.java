@@ -1,4 +1,4 @@
-package com.fruitSalad_backend.Backend.service;
+package com.SpringbootDemo.Backend.service;
 
 import com.fruitSalad_backend.Backend.model.Customer;
 import com.fruitSalad_backend.Backend.repository.CustomerRepository;

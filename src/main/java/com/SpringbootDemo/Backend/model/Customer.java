@@ -1,4 +1,4 @@
-package com.fruitSalad_backend.Backend.model;
+package com.SpringbootDemo.Backend.model;
 
 import jakarta.persistence.*;
 

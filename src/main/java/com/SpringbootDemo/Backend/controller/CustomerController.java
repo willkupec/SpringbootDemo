@@ -1,4 +1,4 @@
-package com.fruitSalad_backend.Backend.controller;
+package com.SpringbootDemo.Backend.controller;
 
 
 import com.fruitSalad_backend.Backend.model.Customer;

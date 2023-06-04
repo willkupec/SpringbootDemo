@@ -1,4 +1,4 @@
-package com.fruitSalad_backend.Backend.repository;
+package com.SpringbootDemo.Backend.repository;
 
 import com.fruitSalad_backend.Backend.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
