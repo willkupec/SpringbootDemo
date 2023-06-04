@@ -1,7 +1,7 @@
 package com.SpringbootDemo.Backend.service;
 
-import com.fruitSalad_backend.Backend.model.Customer;
-import com.fruitSalad_backend.Backend.repository.CustomerRepository;
+import com.SpringbootDemo.Backend.model.Customer;
+import com.SpringbootDemo.Backend.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

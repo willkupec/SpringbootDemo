@@ -2,8 +2,8 @@ package com.fruitSalad_backend.Backend;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.fruitSalad_backend.Backend.model.Customer;
-import com.fruitSalad_backend.Backend.repository.CustomerRepository;
+import com.SpringbootDemo.Backend.model.Customer;
+import com.SpringbootDemo.Backend.repository.CustomerRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;

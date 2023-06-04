@@ -1,6 +1,6 @@
 package com.SpringbootDemo.Backend.service;
 
-import com.fruitSalad_backend.Backend.model.Customer;
+import com.SpringbootDemo.Backend.model.Customer;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
 package com.SpringbootDemo.Backend.controller;
 
 
-import com.fruitSalad_backend.Backend.model.Customer;
-import com.fruitSalad_backend.Backend.service.CustomerService;
+import com.SpringbootDemo.Backend.model.Customer;
+import com.SpringbootDemo.Backend.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
